@@ -1,12 +1,12 @@
 ### Hey Dev, i am Gabriel Lisboa! 👋
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LisboaDev23&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=LisboaDev23&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
-<div  align="center">
-   <div style="display: inline_block"><br>
+<div align="center">
+   <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Most used technologies</h1>
     <img align="center" height="43" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" >
