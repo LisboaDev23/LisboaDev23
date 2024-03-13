@@ -7,7 +7,7 @@
 
 <div  align="center">
    <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="./png-transparent-one-piece-toni-toni-chopper-tony-tony-chopper-monkey-d-luffy-one-piece-pirate-warriors-anime-chopper-manga-chibi-piracy-thumbnail.png">
     <h1 align="center">Most used technologies</h1>
     <img align="center" height="43" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" >
     <img align="center" height="50" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" >
