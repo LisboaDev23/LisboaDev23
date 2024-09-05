@@ -1,11 +1,10 @@
 ### Hey Dev, i am Gabriel Lisboa! 👋
 <div>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
+  <img align="center" height="200" alt="chopper" src="./png-transparent-one-piece-toni-toni-chopper-tony-tony-chopper-monkey-d-luffy-one-piece-pirate-warriors-anime-chopper-manga-chibi-piracy-thumbnail.png">
 </div>
-
 <div  align="center">
    <div style="display:inline_block">
-    <img align="" height="250" alt="chopper" src="./png-transparent-one-piece-toni-toni-chopper-tony-tony-chopper-monkey-d-luffy-one-piece-pirate-warriors-anime-chopper-manga-chibi-piracy-thumbnail.png">
     <h1 align="center" style = "border:none">Most used technologies</h1>
     <img align="center" height="43" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" >
     <img align="center" height="50" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" >
@@ -18,13 +17,13 @@
    </div>
 
    <h1 align="center">Social Media</h1>
-    <a href = "mailto: gabriel.lisboadv@gmail.com">
+    <a href = "mailto: gabriel.lisboadv@gmail.com" style="text-decoration: none;">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/gabriel-pereira-lisboa-01703229b/">
+    <a href = "https://www.linkedin.com/in/gblisboadev/" style="text-decoration: none;">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/gb.lisboa_/">
+    <a href = "https://www.instagram.com/gb.lisboa_/" style="text-decoration: none;">
       <img width="25" src="instagram.png">
     </a>
 </div>
