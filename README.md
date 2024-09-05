@@ -1,11 +1,14 @@
-### Hey Dev, i am Gabriel Lisboa! 👋
+### Olá, me chamo Gabriel Lisboa! 👋
 <div>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
-  <img align="center" height="200" alt="chopper" src="./png-transparent-one-piece-toni-toni-chopper-tony-tony-chopper-monkey-d-luffy-one-piece-pirate-warriors-anime-chopper-manga-chibi-piracy-thumbnail.png">
+  <p>Estudante de Engenharia de Software cursando o 2° semestre e explorando o vasto universo da tecnologia</p>
+  <p>Com 1 ano e 7 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, sigo em busca da minha oportunidade de ingressar no mercado da tecnologia.</p>
+  <p>Possuo habilidades em linguagens como: Java, TypeScript, JavaScript, HTML CSS, SQL.</p>
+  <p>Também possuo habilidades em: React, NodeJs, SpringBoot, PostgreSQL, Redux Toolkit.</p>
+  <p>Estou aberto a novas oportunidades!</p>
 </div>
 <div  align="center">
    <div style="display:inline_block">
-    <h1 align="center" style = "border:none">Most used technologies</h1>
     <img align="center" height="43" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" >
     <img align="center" height="50" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" >
     <img align="center" height="40" width="40" alt="postgre-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain.svg" >
