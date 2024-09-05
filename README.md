@@ -1,13 +1,15 @@
 ### Olá, me chamo Gabriel Lisboa! 👋
-<div>
+<div style="display: flex">
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
-  <p>Estudante de Engenharia de Software cursando o 2° semestre e explorando o vasto universo da tecnologia</p>
-  <p>Com 1 ano e 7 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, sigo em busca da minha oportunidade de ingressar no mercado da tecnologia.</p>
-  <p>Possuo habilidades em linguagens como: Java, TypeScript, JavaScript, HTML CSS, SQL, SASS.</p>
-  <p>Também possuo habilidades em: React, NodeJs, SpringBoot, PostgreSQL, MySQL e Redux Toolkit.</p>
-  <p>Estou aberto à novas oportunidades!</p>
+  <div>
+    <p>Estudante de Engenharia de Software cursando o 2° semestre e explorando o vasto universo da tecnologia</p>
+    <p>Com 1 ano e 7 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, sigo em busca da minha oportunidade de ingressar no mercado da tecnologia.</p>
+    <p>Possuo habilidades em linguagens como: Java, TypeScript, JavaScript, HTML CSS, SQL, SASS.</p>
+    <p>Também possuo habilidades em: React, NodeJs, SpringBoot, PostgreSQL, MySQL e Redux Toolkit.</p>
+    <p>Estou aberto à novas oportunidades!</p>
+  </div>
 </div>
-<div  align="center">
+<div align="center">
    <div style="display:inline_block">
     <img align="center" height="43" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" >
     <img align="center" height="50" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" >
