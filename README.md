@@ -1,5 +1,5 @@
 ### Olá, me chamo Gabriel Lisboa! 👋
-<div style="display: flex">
+<div style="display: flex;">
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
   <div>
     <p>Estudante de Engenharia de Software cursando o 2° semestre e explorando o vasto universo da tecnologia</p>
