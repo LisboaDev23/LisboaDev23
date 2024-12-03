@@ -3,10 +3,9 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
   <div>
     <p>Estudante de Engenharia de Software cursando o 2° semestre e explorando o vasto universo da tecnologia</p>
-    <p>Com 1 ano e 7 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, sigo em busca da minha oportunidade de ingressar no mercado da tecnologia.</p>
+    <p>Com 1 ano e 7 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, atualmente atuo como desenvolvedor de software na empresa Pague Menos.</p>
     <p>Possuo habilidades em linguagens como: Java, TypeScript, JavaScript, HTML CSS, SQL, SASS.</p>
     <p>Também possuo habilidades em: React, NodeJs, SpringBoot, PostgreSQL, MySQL e Redux Toolkit.</p>
-    <p>Estou aberto à novas oportunidades!</p>
   </div>
 </div>
 <div align="center">
