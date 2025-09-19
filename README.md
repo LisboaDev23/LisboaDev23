@@ -3,7 +3,7 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaDev23&layout=compact&langs_count=16&theme=react"/>
   <div>
     <p>Estudante de Engenharia de Software cursando o 4° semestre e explorando o vasto universo da tecnologia</p>
-    <p>Com 1 ano e 9 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, atualmente atuo como desenvolvedor de software na empresa Pague Menos.</p>
+    <p>Com 2 anos e 6 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, atualmente atuo como desenvolvedor de software na empresa Pague Menos.</p>
     <p>Possuo habilidades em ferramentas como: C#, .NET, Dapper, Entity, SQL Server, MySQL, PostgreSQL, TypeScript, React, React Native, Node, Kubernets, Azure DevOps, Git.</p>
   </div>
 </div>
