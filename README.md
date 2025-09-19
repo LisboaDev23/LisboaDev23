@@ -17,6 +17,8 @@
      <img align="center" height="30" width="40" alt="react-icon"  src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
      <img align="center" height="30" width="40" alt="android-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
      <img align="center" height="30" width="40" alt="ts-icon"  src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
+     <img align="center" height="43" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" >
+    <img align="center" height="50" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" >
    </div>
 
    <h1 align="center">Entre em contato comigo!</h1>
