@@ -4,7 +4,7 @@
   <div>
     <p>Estudante de Engenharia de Software cursando o 4° semestre e explorando o vasto universo da tecnologia</p>
     <p>Com 2 anos e 6 meses acumulando conhecimentos de ambos os conceitos fundamentais da programação, atualmente atuo como desenvolvedor de software na empresa Pague Menos.</p>
-    <p>Possuo habilidades em ferramentas como: C#, .NET, Dapper, Entity, SQL Server, MySQL, PostgreSQL, TypeScript, React, React Native, Node, Kubernets, Azure DevOps, Git, Java, SpringBoot.</p>
+    <p>Possuo habilidades em ferramentas como: C#, .NET, Dapper, Entity, SQL Server, MySQL, PostgreSQL, TypeScript, React, React Native, Node, Docker, Kubernets, Azure DevOps, Git, Java, SpringBoot.</p>
   </div>
 </div>
 <div align="center">
